@@ -1,0 +1,28 @@
+# Dữ liệu & Checkpoints nặng (QUY ƯỚC BẮT BUỘC)
+data/
+checkpoints/
+outputs/
+*.wav
+*.mp3
+*.pt
+*.safetensors
+*.bin
+
+# Python & Môi trường
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+.env
+
+# Jupyter Notebook & VS Code
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
